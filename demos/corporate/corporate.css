@@ -360,3 +360,37 @@ footer ul li {
 .reform-sentence{
     color: whitesmoke;
 }
+
+.transform-circle{
+    background-color: #007D53;
+    
+}
+
+.transform-circle-outter{
+        
+        background-color: #007D53;
+}
+
+.increasetext{
+    font-size: medium;
+    color: #c74e45;
+}
+
+.small-circle-color{
+    background-color: #004884;
+}
+.get-in-touch-btn-color{
+    background: linear-gradient(to right, #00C6F9, #003A7D);
+    padding: 2rem 3rem;
+    color: #ffffff;
+}
+
+.arrow-circe-icon{
+    height: 5px;
+    width: 5px;
+    background-color: #ffffff;
+}
+
+.slider-color {
+    background-color: #007D53;
+}
