@@ -5,9 +5,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap');
 /* variable */
 :root {
-    --base-color: #3C2FC0;
+    --base-color: #007D53;
     --medium-gray: #878898;
-    --dark-gray: #242E45;
+    --dark-gray: #212121;
     --light-red: #F2F1FC;
     --alt-font: 'Plus Jakarta Sans', sans-serif;
     --primary-font: 'Plus Jakarta Sans', sans-serif;
@@ -393,4 +393,17 @@ footer ul li {
 
 .slider-color {
     background-color: #007D53;
+}
+.dark-overlay{
+    
+    background: linear-gradient(to bottom, #00c7f900, #1c1c1c);
+}
+
+/* FOOTER  */
+.footer-home{
+    background-color: #007D53;
+
+}
+.space{
+    margin-bottom: 4rem;
 }
