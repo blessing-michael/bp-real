@@ -407,3 +407,18 @@ footer ul li {
 .space{
     margin-bottom: 4rem;
 }
+
+.designation{
+    font-size: 13px;
+    line-height: 2;
+   
+}
+
+.video-margin{
+    margin-top: 5rem;
+}
+
+.transform-circle-deeper {
+    opacity: 0.1;
+    background-color: #00422c;
+}
