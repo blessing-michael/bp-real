@@ -384,6 +384,11 @@ footer ul li {
     padding: 2rem 3rem;
     color: #ffffff;
 }
+.get-in-touch-btn-color-contact{
+    background: linear-gradient(to right, #82ddbf, #007D53);
+    padding: 2rem 3rem;
+    color: #ffffff;
+}
 
 .arrow-circe-icon{
     height: 5px;
